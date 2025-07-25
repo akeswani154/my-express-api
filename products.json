@@ -1,0 +1,60 @@
+[
+  {
+    "name": "iphone",
+    "price": 154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone10",
+    "price": 1154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "watch",
+    "price": 204,
+    "company": "apple"
+  },
+  {
+    "name": "macbook",
+    "price": 2200,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "ipad",
+    "price": 899,
+    "feature": false,
+    "company": "apple"
+  },
+  {
+    "name": "airpods",
+    "price": 199,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "galaxy s21",
+    "price": 799,
+    "feature": true,
+    "company": "samsung"
+  },
+  {
+    "name": "galaxy watch",
+    "price": 299,
+    "feature": false,
+    "company": "samsung"
+  },
+  {
+    "name": "pixel 6",
+    "price": 599,
+    "feature": true,
+    "company": "google"
+  },
+  {
+    "name": "pixel buds",
+    "price": 129,
+    "company": "google"
+  }
+]
