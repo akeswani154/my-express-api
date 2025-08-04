@@ -28,6 +28,7 @@ const productSchema = new mongoose.Schema({
         }
     }
 });
+//products
 
 const Product = mongoose.model('Product',productSchema)
 module.exports = Product;
