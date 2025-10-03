@@ -7,7 +7,7 @@ const productsRouter = require('./routes/products');
 const connectDB = require('./db/connect');
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello ajay!')
 });
 app.use('/api/products', productsRouter);
 
