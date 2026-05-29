@@ -9,6 +9,7 @@ const connectDB = require('./db/connect');
 app.get('/', (req, res) => {
   res.send('Hello World!')
 });
+
 app.use('/api/products', productsRouter);
 
 const start = async()=>{
